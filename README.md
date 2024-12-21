@@ -46,18 +46,9 @@ Hi, I'm **Shivsamb Jalkote**, a passionate DevOps Engineer with a love for cloud
 
 ---
 
-## 📝 Latest Blog Posts
-
-- [Breaking Down Kubernetes ☸ Architecture: A Guide for Newbies](https://www.linkedin.com/pulse/breaking-down-kubernetes-architecture-guide-newbies-abhipray-dhoble-t1wlc/?trackingId=ZHNsEZ3aRcKuC9oQ5xdJLw%3D%3D)
-- [Docker 🐋Networking Essentials: Boost Your Container Communication 🔁 Skills](https://www.linkedin.com/pulse/docker-networking-essentials-boost-your-container-skills-dhoble-kmrjc/?trackingId=ZHNsEZ3aRcKuC9oQ5xdJLw%3D%3D)
-- [Streamline Your Cloud 🌩️Storage Strategy with AWS S3](https://www.linkedin.com/pulse/streamline-your-cloud-storage-strategy-aws-s3-classes-abhipray-dhoble-8frcc?trackingId=WyDEGIUmTT6kRviuN0fGZw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3BSTvtWpEGSjq9zkazyqsaPQ%3D%3D)
-- [Understanding Docker Exit ❌ Codes](https://www.linkedin.com/pulse/understanding-docker-exit-codesmastering-insights-flawless-dhoble-m5vlc?trackingId=WyDEGIUmTT6kRviuN0fGZw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3BSTvtWpEGSjq9zkazyqsaPQ%3D%3D)
-
----
-
 ## 🚀 Featured Projects
 
-### [🎮 Project Super Mario](https://github.com/abhipraydhoble/Project-Super-Mario)
+### [🎮 Project Super Mario](https://github.com/dj-datta/Project-Super-Mario.git)
 A nostalgic game inspired by Super Mario, built to explore game development fundamentals.
 
 - **Technologies**: HTML5, CSS3, JavaScript
@@ -68,31 +59,7 @@ A nostalgic game inspired by Super Mario, built to explore game development fund
 
 ---
 
-### [🛡️ Project InsureMe](https://github.com/abhipraydhoble/Project-InsureMe)
-An insurance management platform for managing policies, claims, and customer details.
-
-- **Frontend**: React.js
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Features**:
-  - Policy creation and management
-  - User authentication and role-based access
-  - Claims tracking with detailed analytics
-
----
-
-### [📦 Project Angular App AWS](https://github.com/abhipraydhoble/Project-Angular-App-AWS)
-A serverless Angular application deployed on AWS infrastructure.
-
-- **Tech Stack**: Angular, AWS S3, CloudFront, Route 53
-- **Features**:
-  - Scalable frontend hosted on AWS S3
-  - Secure domain mapping using Route 53
-  - CDN integration via CloudFront for faster delivery
-
----
-
-### [📚 Project Student App](https://github.com/abhipraydhoble/Project-Student-App)
+### [📚 Project Student App](https://github.com/dj-datta/StudentAppDoc.git)
 A student management system to handle registrations, grades, and profiles.
 
 - **Tech Stack**: Java Spring Boot, Angular
@@ -116,15 +83,4 @@ A robust 3-tier architecture for a student management application.
   - Deployed on AWS with load balancing and high availability
 
 ---
-
-### [🎥 Netflix Clone](https://github.com/abhipraydhoble/netflix)
-A Netflix-inspired application with movie browsing and streaming features.
-
-- **Tech Stack**: React.js, TMDB API
-- **Features**:
-  - Browse and search for movies by genre
-  - Modern, responsive design
-
----
-
 
