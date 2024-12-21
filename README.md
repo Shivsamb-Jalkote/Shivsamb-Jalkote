@@ -11,13 +11,6 @@ Hi, I'm **Shivsamb Jalkote**, a passionate DevOps Engineer with a love for cloud
 
 ---
 
-
-![Shivsamb's GitHub stats](https://github-readme-stats.vercel.app/api?username=dj-datta&show_icons=true&theme=radical)
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
 ## 🛠️ Tools & Technologies:
 
 | Linux | Terraform | Jenkins | Kubernets | Ansible | Ubuntu | Git | Docker | Git Hub | VS Code | AWS |
