@@ -1,18 +1,18 @@
 ## 👨‍💻 About Me
 
-Hi, I'm **Abhipray Dhoble**, a passionate DevOps Engineer with a love for cloud computing, automation, and building scalable applications. I'm always looking to learn new technologies, collaborate with talented people, and contribute to impactful projects.
+Hi, I'm **Shivsamb Jalkote**, a passionate DevOps Engineer with a love for cloud computing, automation, and building scalable applications. I'm always looking to learn new technologies, collaborate with talented people, and contribute to impactful projects.
 
 ---
 
 ## 🌐 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhipraydhoble/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im_abhipray/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivsamb-jalkote-3b066a320/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dj_datta_2176/)
 
 ---
 
 
-![Abhipray's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhipraydhoble&show_icons=true&theme=radical)
+![Shivsamb's GitHub stats](https://github-readme-stats.vercel.app/api?username=dj-datta&show_icons=true&theme=radical)
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
