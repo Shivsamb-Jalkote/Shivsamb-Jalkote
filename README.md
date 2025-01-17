@@ -74,7 +74,7 @@ A student management system to handle registrations, grades, and profiles.
 
 ---
 
-### [🏛️ Project 3-Tier Student App](https://github.com/abhipraydhoble/Project-3-tier-Student-App)
+### [🏛️ Project 3-Tier Student App](https://github.com/Shivsamb-Jalkote/Project-Student-App-3-tier.git)
 A robust 3-tier architecture for a student management application.
 
 - **Architecture**:
